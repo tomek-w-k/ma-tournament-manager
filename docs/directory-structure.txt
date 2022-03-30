@@ -1,0 +1,22 @@
+ma-tournament-manager
+	- bin					// main application build files
+	- doc					// documentation and other documents including this file
+	- lib					// libraries/modules build files
+		- [lib-1]
+		- [lib-2]
+			.
+			.
+			.
+		- [lib-n]
+	- src					
+		- bin				// main application source files
+		- lib				// libraries/modules source files
+			- [lib-1]
+			- [lib-2]
+				.
+				.
+				.
+			- [lib-n]
+	- res
+		- icons
+		- img
